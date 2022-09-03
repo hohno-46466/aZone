@@ -6,7 +6,1507 @@ Apple, Android, AWS Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Wed Aug 24 22:26:16 JST 2022)
+     0 directories, 2 files (Sat Aug 27 18:14:57 JST 2022)
+
+Note: URL = https://github.com/hohno-46466/aZone
+
+Note: URL = git@github.com:hohno-46466/aZone.git
+
+    ./aZone
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 2 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./bZone
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 2 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone
+     ├──  00README.txt
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--20171101b_SerialTimeServer2
+     ├──  ==PrivateRepository==
+     ├──  NTPservers.h
+     ├──  README.md
+     ├──  README.md.old
+     ├──  convertit.sh
+     ├──  lib/
+     │   └──  readme.txt
+     ├──  mySNTPoverWiFi.cpp
+     ├──  mySNTPoverWiFi.h
+     ├──  myself.cpp
+     ├──  myself.h
+     ├──  platformio.ini
+     ├──  secret.h... -> ../../COMMON/secret.h
+     ├──  setupNTP.cpp
+     ├──  setupNTP.h
+     ├──  setupNTP.ino
+     ├──  sketch_20171101b_SerialTimeService2.ino
+     ├──  sketch_20171101b_SerialTimeService2.ino-20190602-1154
+     ├──  sketch_20171101b_SerialTimeService2.ino-20190603-2027
+     ├──  sketch_20171101b_SerialTimeService2.ino-20190603-2217
+     ├──  sketch_20171101b_SerialTimeService2.ino-20190605-1308
+     └──  sketch_20171101b_SerialTimeService2.ino.generic.bin
+     
+     1 directory, 21 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--20171231_imasClockT2_ADC_aging
+     ├──  00README.txt
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     ├──  lib/
+     │   └──  readme.txt
+     ├──  myself.cpp
+     ├──  myself.h
+     ├──  platformio.ini
+     ├──  ringbuff.cpp
+     ├──  ringbuff.h
+     ├──  sketch_20171231_imasClockT2_ADC_aging.ino
+     └──  tmp/
+         └──  sketch_20171231_imasClockT2_ADC_aging.ino.prev
+     
+     2 directories, 12 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--ArrowLight
+     ├──  COMMON_(Read_this_before_you_start)_.txt
+     ├──  README.md
+     ├──  README.md.old
+     ├──  docs/
+     │   └──  README.md
+     ├──  misc/
+     │   └──  README.md
+     ├──  replaceCOMMON.bat
+     └──  src/
+         ├──  QQ-74HC595.sh
+         ├──  README.md
+         ├──  sketch_20210906a_74HC595/
+         │   ├──  config.h -> ../../COMMON/config.h
+         │   ├──  debugLevel.h -> ../../COMMON/debugLevel.h
+         │   ├──  myLED14segData.h -> ../../COMMON/myLED14segData.h
+         │   ├──  myLED16segData.h -> ../../COMMON/myLED16segData.h
+         │   ├──  myLED7segData.h -> ../../COMMON/myLED7segData.h
+         │   ├──  myNewClass.cpp -> ../../COMMON/myNewClass.cpp
+         │   ├──  myNewClass.h -> ../../COMMON/myNewClass.h
+         │   ├──  myTimezone.h -> ../../COMMON/myTimezone.h
+         │   ├──  mydefs.h -> ../../COMMON/mydefs.h
+         │   ├──  myfuncs.cpp -> ../../COMMON/myfuncs.cpp
+         │   ├──  myfuncs.h -> ../../COMMON/myfuncs.h
+         │   ├──  myself-sample.h -> ../../COMMON/myself.h
+         │   ├──  myself.cpp -> ../../COMMON/myself.cpp
+         │   ├──  myself.h
+         │   ├──  secret.h -> ../../COMMON/secret.h
+         │   └──  sketch_20210906a_74HC595.ino
+         └──  sketch_20210926a_sampleSketch1/
+             └──  sketch_20210926a_sampleSketch1.ino
+     
+     5 directories, 25 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--COMMON
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     ├──  docs/
+     │   └──  README.md
+     ├──  misc/
+     │   ├──  README.md
+     │   ├──  additional-board-manager-URLs.txt
+     │   ├──  arduino-fusebit-settings.txt
+     │   └──  hardware/
+     │       └──  arduino/
+     │           └──  avr/
+     └──  src/
+         ├──  All_Arduinos -> COMMON
+         ├──  COMMON/
+         │   ├──  MEMO-structs,defs,funcs,libraries.txt
+         │   ├──  Makefile.platformio
+         │   ├──  README.md
+         │   ├──  checkDir.sh
+         │   ├──  config.h
+         │   ├──  debugLevel.h
+         │   ├──  examples/
+         │   │   └──  COMMON_test/
+         │   ├──  myLED14segData.h
+         │   ├──  myLED16segData.h
+         │   ├──  myLED7segData.h
+         │   ├──  myNewClass.cpp
+         │   ├──  myNewClass.h
+         │   ├──  myTimezone.h
+         │   ├──  mydefs.h
+         │   ├──  myfuncs.cpp
+         │   ├──  myfuncs.h
+         │   ├──  myfuncs.ino
+         │   ├──  myself.cpp
+         │   ├──  myself.h
+         │   ├──  secret-SAMPLE.h
+         │   ├──  secret.h -> ../SECRET/secret.h
+         │   ├──  zzIDM.cpp
+         │   └──  zzIDM.h
+         ├──  README.md
+         └──  SECRET/
+             ├──  README.md
+             ├──  secret-ap-dummy.h
+             ├──  secret-ap.h -> secret-ap-dummy.h
+             └──  secret.h -> secret-ap.h
+     
+     11 directories, 34 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--DateTimeDisplay
+     ├──  ==PrivateRepository==
+     ├──  COMMON -> ../cZone--Arduino--COMMON/src/All_Arduinos/
+     ├──  COMMON_(Read_this_before_you_start)_.txt
+     ├──  CreateCOMMON.bat -> misc/QQ.bat
+     ├──  README.md
+     ├──  README.md.old
+     ├──  docs/
+     │   └──  README.md
+     ├──  foo.bat
+     ├──  misc/
+     │   ├──  QQ.bat
+     │   ├──  README.md
+     │   └──  mkbat4winFS.sh
+     ├──  mkbat4winFS.sh -> misc/mkbat4winFS.sh
+     └──  src/
+         └──  sketch_20201003a_DateTimeDisplay/
+             ├──  GPATH
+             ├──  GRTAGS
+             ├──  GTAGS
+             ├──  Makefile
+             ├──  config.h
+             ├──  debugLevel.h
+             ├──  gtags.conf
+             ├──  include/
+             │   └──  README
+             ├──  lib/
+             │   └──  README
+             ├──  myNewClass.cpp
+             ├──  myNewClass.h
+             ├──  myTimezone.h -> ../../../cZone--Arduino--COMMON/src/All_Arduinos/myTimezone.h
+             ├──  mydefs.h -> ../../../cZone--Arduino--COMMON/src/All_Arduinos/mydefs.h
+             ├──  myfuncs.cpp -> ../../../cZone--Arduino--COMMON/src/All_Arduinos/myfuncs.cpp
+             ├──  myfuncs.h -> ../../../cZone--Arduino--COMMON/src/All_Arduinos/myfuncs.h
+             ├──  myself.cpp -> ../../../cZone--Arduino--COMMON/src/All_Arduinos/myself.cpp
+             ├──  myself.h
+             ├──  platformio.ini
+             ├──  sketch_20201003a_DateTimeDisplay.ino
+             ├──  sketch_20201003a_DateTimeDisplay.ino-20201021-0509
+             └──  test/
+                 └──  README
+     
+     8 directories, 32 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--TEMPLATE
+     ├──  COMMON_(Read_this_before_you_start)_.txt
+     ├──  CreateCOMMON.bat -> misc/QQ.bat
+     ├──  README.md
+     ├──  README.md.old
+     ├──  READMEforWindows.md
+     ├──  docs/
+     │   └──  README.md
+     ├──  misc/
+     │   ├──  QQ.bat
+     │   ├──  README.md
+     │   └──  mkbat4winFS.sh
+     ├──  mkbat4winFS.sh -> misc/mkbat4winFS.sh
+     └──  src/
+         ├──  README.md
+         └──  sketch_21mmdda_example1/
+             ├──  config.h -> ../../COMMON/config.h
+             ├──  debugLevel.h -> ../../COMMON/debugLevel.h
+             ├──  myNewClass.cpp -> ../../COMMON/myNewClass.cpp
+             ├──  myNewClass.h -> ../../COMMON/myNewClass.h
+             ├──  mydefs.h -> ../../COMMON/mydefs.h
+             ├──  myself.cpp -> ../../COMMON/myself.cpp
+             ├──  myself.h
+             └──  sketch_21mmdda_example1.ino
+     
+     4 directories, 19 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--imasClasses
+     ├──  LICENSE
+     ├──  README.md
+     ├──  README.md.old
+     └──  imasMORSE/
+         ├──  examples/
+         │   └──  imasMORSE_20160706A/
+         │       ├──  config.h
+         │       ├──  imasMORSE.cpp -> ../../imasMORSE.cpp
+         │       ├──  imasMORSE.h -> ../../imasMORSE.h
+         │       ├──  imasMORSE_20160706A.ino
+         │       └──  misc.h -> ../../../common/misc.h
+         ├──  imasMORSE.cpp
+         └──  imasMORSE.h
+     
+     3 directories, 10 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--variousPrivateSketches
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--variousSketches
+     ├──  README.md
+     ├──  README.md.old
+     └──  test.txt
+     
+     0 directories, 3 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Arduino--zzRTC
+     ├──  README-old.md
+     ├──  README.md
+     ├──  README.md.old
+     ├──  examples/
+     │   └──  zzRTC_test/
+     │       └──  zzRTC_test.ino
+     ├──  zzRTC-memo.txt
+     ├──  zzRTC.cpp
+     ├──  zzRTC.h
+     └──  zzRTC.md
+     
+     2 directories, 8 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Processing3--MQTTclock
+     ├──  ==PrivateRepository==
+     ├──  QQ-MQTTclock1.sh
+     ├──  README.md
+     ├──  README.md.old
+     ├──  ignoreMe/
+     │   └──  00doit-1.sh
+     └──  src/
+         ├──  sketch_20190506a_MQTTclock1/
+         │   ├──  MQTTclockSub.pde
+         │   ├──  README.md
+         │   ├──  drawClock.pde
+         │   ├──  myString.pde
+         │   └──  sketch_20190506a_MQTTclock1.pde
+         └──  sketch_20211227a_MQTTclock2/
+             └──  README.md
+     
+     4 directories, 11 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./cZone--Processing3--tamaClock
+     ├──  README.md
+     ├──  README.md.old
+     ├──  tamaClock/
+     │   ├──  clock.mov
+     │   ├──  data/
+     │   │   ├──  00doit.sh
+     │   │   ├──  01doit.sh
+     │   │   ├──  misc/
+     │   │   ├──  tamahime-1080x450.png
+     │   │   ├──  tamahime-360x447-Azusa.png
+     │   │   ├──  tamahime-360x447-amimami.png
+     │   │   ├──  tamahime-360x447-chihaya.png
+     │   │   ├──  tamahime-360x447-haruka.png
+     │   │   ├──  tamahime-360x447-hibiki.png
+     │   │   ├──  tamahime-360x447-iori.png
+     │   │   ├──  tamahime-360x447-makoto.png
+     │   │   ├──  tamahime-360x447-miki.png
+     │   │   ├──  tamahime-360x447-ritsuko.png
+     │   │   ├──  tamahime-360x447-takane.png
+     │   │   ├──  tamahime-360x447-yayoi.png
+     │   │   ├──  tamahime-360x447-yukiho.png
+     │   │   ├──  tamahime-360x450.png
+     │   │   ├──  tamahime-4680x447-765AS.png
+     │   │   ├──  tamahime-4680x450.png
+     │   │   └──  tamahime.png
+     │   ├──  keyInput.pde
+     │   ├──  sketch.properties
+     │   ├──  tamaClock.pde
+     │   ├──  tamaClock.pde-20210822-2344
+     │   └──  tamaClock.xxx
+     ├──  tamaClock.sh
+     └──  tamaClock4iPad/
+         ├──  data/
+         │   ├──  tamahime-360x450.png
+         │   └──  tamahime-4680x447-765AS.png
+         ├──  keyInput.pde
+         ├──  tamaClock.pde.prev
+         └──  tamaClock4iPad.pde
+     
+     5 directories, 33 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./dZone
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 2 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./dZone--PT4A--USBstorage
+     ├──  README.md
+     ├──  README.md.old
+     ├──  USB128GB-20210601/
+     │   ├──  PT4A/
+     │   │   └──  README.md
+     │   ├──  README.md
+     │   ├──  Readme1_Rev.2.0.txt
+     │   ├──  Readme2_tree.txt
+     │   ├──  Readme3_USB_MOUNT_REV.2.0.txt
+     │   ├──  Readme4_PT4A_REV.2.0.txt
+     │   ├──  System Volume Information/
+     │   │   ├──  IndexerVolumeGuid
+     │   │   └──  WPSettings.dat
+     │   └──  data/
+     │       ├──  Structured_data/
+     │       │   ├──  Readme_Rev.2.0.txt
+     │       │   ├──  amedas/
+     │       │   ├──  format/
+     │       │   └──  samples/
+     │       └──  Unstructured_data/
+     │           ├──  README.txt
+     │           ├──  References/
+     │           ├──  TUTORIAL.txt
+     │           └──  Tokyo2020/
+     ├──  USB256GB-20220612/
+     │   ├──  PT4A/
+     │   │   └──  README.md
+     │   ├──  README.md
+     │   ├──  Readme1_Rev.2.1.txt
+     │   ├──  Readme2_tree_2022.txt
+     │   ├──  Readme3_USB_MOUNT_REV.2.1.txt
+     │   ├──  Readme4_PT4A_REV.2.1.txt
+     │   └──  data/
+     │       ├──  Structured_data/
+     │       │   ├──  Readme_Rev.2.0.txt
+     │       │   ├──  Readme_Rev.2.1.txt
+     │       │   ├──  amedas/
+     │       │   ├──  format/
+     │       │   └──  samples/
+     │       └──  Unstructured_data/
+     │           ├──  README.txt
+     │           ├──  References/
+     │           ├──  TUTORIAL.txt
+     │           └──  Tokyo2020/
+     ├──  USB256GB-20220806/
+     │   ├──  PT4A/
+     │   │   └──  README.md
+     │   ├──  README.md
+     │   ├──  Readme1_Rev.2.1.txt
+     │   ├──  Readme2_tree_2022.txt
+     │   ├──  Readme3_USB_MOUNT_REV.2.1.txt
+     │   ├──  Readme4_PT4A_REV.2.2.txt
+     │   └──  data/
+     │       ├──  Structured_data/
+     │       │   ├──  Readme_Rev.2.1.txt
+     │       │   ├──  amedas/
+     │       │   ├──  format/
+     │       │   └──  samples/
+     │       └──  Unstructured_data/
+     │           ├──  README.txt
+     │           ├──  References/
+     │           ├──  TUTORIAL.txt
+     │           └──  Tokyo2020/
+     ├──  USB256GB-20220806.tar.gz
+     └──  workspace/
+         └──  tmptools/
+             ├──  do8.sh
+             ├──  makeusb.sh
+             ├──  mmm.sh
+             ├──  uuu.sh
+             └──  xxx.sh
+     
+     33 directories, 38 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone
+     ├──  00README.txt
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--BDP--SLCS2021
+     ├──  README.md
+     ├──  README.md.bak
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--mgmg--KU2204
+     ├──  README.md
+     ├──  README.md.old
+     ├──  UsefulURLs.md
+     ├──  arduino/
+     │   ├──  README.md
+     │   ├──  sketch_20210906a_74HC595/
+     │   │   └──  sketch_20210906a_74HC595.ino
+     │   ├──  sketch_Lesson0/
+     │   │   └──  sketch_Lesson0.ino
+     │   ├──  sketch_Lesson1/
+     │   │   └──  sketch_Lesson1.ino
+     │   ├──  sketch_Lesson2/
+     │   │   └──  sketch_Lesson2.ino
+     │   ├──  sketch_Lesson3/
+     │   │   └──  sketch_Lesson3.ino
+     │   ├──  sketch_Lesson4/
+     │   │   └──  sketch_Lesson4.ino
+     │   ├──  sketch_Lesson5/
+     │   │   └──  sketch_Lesson5.ino
+     │   ├──  sketch_Lesson6/
+     │   │   └──  sketch_Lesson6.ino
+     │   ├──  sketch_Lesson7/
+     │   │   └──  sketch_Lesson7.ino
+     │   ├──  sketch_Lesson8/
+     │   │   └──  sketch_Lesson8.ino
+     │   └──  sketch_Lesson9/
+     │       └──  sketch_Lesson9.ino
+     ├──  examples/
+     │   ├──  0-wsl.sh
+     │   ├──  1-check.sh
+     │   ├──  2-mklink.sh
+     │   ├──  3-tips.sh
+     │   └──  README.md
+     ├──  misc/
+     │   └──  README.md
+     └──  scripts/
+         ├──  README.md
+         ├──  addpath.sh
+         ├──  addpath.sh.prev
+         ├──  addts.sh
+         └──  addts.sh.old
+     
+     15 directories, 26 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--mgmg--UCI2021
+     ├──  README.md
+     ├──  README.md.old
+     ├──  README.md.orig
+     ├──  UsefulURLs.md
+     ├──  arduino/
+     │   ├──  README.md
+     │   ├──  mgws2108/
+     │   │   ├──  sketch_20210823_GBKA_Blink/
+     │   │   ├──  sketch_20210823_Lesson0/
+     │   │   ├──  sketch_20210823_Lesson0_with_blink/
+     │   │   ├──  sketch_20210823_Lesson0_with_blink_and_millis/
+     │   │   ├──  sketch_20210823_Lesson0_with_blink_millis_and_keywords/
+     │   │   ├──  sketch_20210823_Lesson1/
+     │   │   ├──  sketch_20210823_Lesson1_read_from_Serial/
+     │   │   ├──  sketch_20210823_Lesson2/
+     │   │   ├──  sketch_20210823_Lesson2_with_counter/
+     │   │   ├──  sketch_20210823_Lesson2_with_notify/
+     │   │   ├──  sketch_20210823_Lesson2_with_notify_millis_and_keywords/
+     │   │   ├──  sketch_20210823_Lesson3A/
+     │   │   └──  sketch_20210823_Lesson3A_with_notify_millis_and_keywords/
+     │   ├──  sketch_20211012_GBKA_Blink/
+     │   │   ├──  sketch_20211012_GBKA_Blink.ino
+     │   │   └──  sketch_20211012_GBKA_Blink_SIMPLE.ino
+     │   ├──  sketch_20211012_Lesson0/
+     │   │   └──  sketch_20211012_Lesson0.ino
+     │   ├──  sketch_20211012_Lesson0_with_blink/
+     │   │   └──  sketch_20211012_Lesson0_with_blink.ino
+     │   ├──  sketch_20211012_Lesson0_with_blink_millis_and_keywords/
+     │   │   └──  sketch_20211012_Lesson0_with_blink_millis_and_keywords.ino
+     │   ├──  sketch_20211012_Lesson1/
+     │   │   └──  sketch_20211012_Lesson1.ino
+     │   ├──  sketch_20211012_Lesson1_Serial/
+     │   │   └──  sketch_20211012_Lesson1_Serial.ino
+     │   ├──  sketch_20211012_Lesson2/
+     │   │   └──  sketch_20211012_Lesson2.ino
+     │   ├──  sketch_20211012_Lesson2_with_notify_millies_and_keywords/
+     │   │   └──  sketch_20211012_Lesson2_with_notify_millies_and_keywords.ino
+     │   ├──  sketch_20211106_Lesson10/
+     │   │   └──  sketch_20211106_Lesson10.ino
+     │   ├──  sketch_20211106_Lesson3/
+     │   │   └──  sketch_20211106_Lesson3.ino
+     │   ├──  sketch_20211106_Lesson3_with_notify_millis_and_keywords/
+     │   │   └──  sketch_2021106_Lesson3_with_notify_millis_and_keywords.ino
+     │   ├──  sketch_20211106_Lesson4/
+     │   │   └──  sketch_20211106_Lesson4.ino
+     │   ├──  sketch_20211106_Lesson5/
+     │   │   └──  sketch_20211106_Lesson5.ino
+     │   ├──  sketch_20211106_Lesson6/
+     │   │   └──  sketch_20211106_Lesson6.ino
+     │   ├──  sketch_20211106_Lesson7/
+     │   │   └──  sketch_20211106_Lesson7.ino
+     │   ├──  sketch_20211106_Lesson8/
+     │   │   └──  sketch_20211106_Lesson8.ino
+     │   └──  sketch_20211106_Lesson9/
+     │       └──  sketch_20211106_Lesson9.ino
+     ├──  examples/
+     │   ├──  0-1_update_your_apt.txt
+     │   ├──  0-2_install_additional_commands.txt
+     │   ├──  1-1_MQTT1.txt
+     │   ├──  1-2_MQTT2.txt
+     │   ├──  2-1_kotoriotoko-1.txt
+     │   ├──  2-2_kotoriotoko-2.txt
+     │   ├──  2-3_kotoriotoko-3.txt
+     │   ├──  3-1_GBKA-1.txt
+     │   ├──  README.md
+     │   └──  template.txt
+     ├──  misc/
+     │   └──  README.md
+     └──  scripts/
+         └──  README.md
+     
+     35 directories, 35 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--mgmgws1908
+     ├──  README.md
+     ├──  README.md.bak
+     ├──  README.md.old
+     └──  arduino/
+         ├──  00README.txt
+         ├──  sketch20190819a_00_Blank/
+         │   └──  sketch20190819a_00_Blank.ino
+         ├──  sketch20190819b-Blink/
+         │   └──  sketch20190819b-Blink.ino
+         ├──  sketch20190820a_AnalogReadSerial_POT1/
+         │   └──  sketch20190820a_AnalogReadSerial1.ino
+         ├──  sketch20190820b_AnalogReadSerial_POT3/
+         │   └──  sketch20190820a_AnalogReadSerial3.ino
+         └──  sketch20190820c_SerialReadAnalog_POT3/
+             └──  sketch20190820c_SerialReadAnalog_POT3.ino
+     
+     6 directories, 9 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--mgmgws201909
+     ├──  README.md
+     ├──  README.md.bak
+     ├──  README.md.old
+     └──  examples/
+         ├──  00README.txt
+         ├──  20190913a_Blank/
+         │   ├──  README.md
+         │   └──  arduino/
+         │       └──  sketch20190913a_Blank/
+         ├──  20190913b_SimpleBlink/
+         │   ├──  README.md
+         │   └──  arduino/
+         │       └──  sketch20190913b_SimpleBlink/
+         ├──  20190913c_Blink_3LEDs/
+         │   ├──  README.md
+         │   └──  arduino/
+         │       ├──  sketch20190913c2_Blink_3LEDs/
+         │       └──  sketch20190913c_Blink_3LEDs/
+         ├──  20190913d_AnalogReadSerial_1POT/
+         │   ├──  README.md
+         │   └──  arduino/
+         │       └──  sketch20190913d_AnalogReadSerial_1POT/
+         ├──  20190913e_AnalogReadSerial_3POTs/
+         │   ├──  README.md
+         │   └──  arduino/
+         │       └──  sketch20190913e_AnalogReadSerial_3POTs/
+         ├──  20190913f_SerialReadAnalog_3LEDs/
+         │   ├──  README.md
+         │   └──  arduino/
+         │       └──  sketch20190913f_SerialReadAnalog_3LEDs/
+         ├──  20190913g_simpleMQTT/
+         │   └──  REAME.md
+         ├──  20190913h_moreMQTT/
+         │   └──  README.md
+         ├──  20190913j_moreMonogramming/
+         │   └──  README.md
+         └──  20190913k_kotoriotoko/
+             └──  README.md
+     
+     24 directories, 14 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--mgws--2107
+     ├──  Arduino/
+     │   ├──  README.md
+     │   ├──  sketch_20210723_GBKA_Blink/
+     │   │   └──  sketch_20210723_GBKA_Blink.ino
+     │   ├──  sketch_20210723_Lesson0/
+     │   │   └──  sketch_20210723_Lesson0.ino
+     │   ├──  sketch_20210723_Lesson0_with_blink/
+     │   │   └──  sketch_20210723_Lesson0_with_blink.ino
+     │   ├──  sketch_20210723_Lesson0_with_blink_and_millis/
+     │   │   └──  sketch_20210723_Lesson0_with_blink_and_millis.ino
+     │   ├──  sketch_20210723_Lesson0_with_blink_millis_and_keywords/
+     │   │   └──  sketch_20210723_Lesson0_with_blink_millis_and_keywords.ino
+     │   ├──  sketch_20210723_Lesson2/
+     │   │   └──  sketch_20210723_Lesson2.ino
+     │   ├──  sketch_20210723_Lesson2_with_counter/
+     │   │   └──  sketch_20210723_Lesson2_with_counter.ino
+     │   ├──  sketch_20210723_Lesson2_with_notify/
+     │   │   └──  sketch_20210723_Lesson2_with_notify.ino
+     │   └──  sketch_20210723_Lesson2_with_notify_millis_and_keywords/
+     │       └──  sketch_20210723_Lesson2_with_notify_millis_and_keywords.ino
+     ├──  README.md
+     ├──  README.md.bak
+     ├──  README.md.old
+     ├──  documents/
+     │   ├──  MonogrammingExampleForFeedbackControl.pdf
+     │   ├──  MonogrammingForFeedbackControl (Translation).pdf
+     │   ├──  README.md
+     │   └──  シェルスクリプトを用いたUNIX哲学に基づくリアルタイム制御.pdf
+     ├──  examples/
+     │   ├──  0-1_update_your_apt.sh
+     │   ├──  0-2_install_additional_commands.sh
+     │   ├──  1-1_MQTT1.sh
+     │   ├──  1-2_MQTT2.sh
+     │   ├──  2-1_GBKA-1.sh
+     │   ├──  3-1_kotoriotoko-1.sh
+     │   ├──  3-2_kotoriotoko-2.sh
+     │   ├──  README.md
+     │   └──  template.sh
+     └──  misc/
+         └──  README.md
+     
+     13 directories, 27 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--mgws--2108
+     ├──  Arduino/
+     │   ├──  OLD/
+     │   │   ├──  sketch_20210723_GBKA_Blink/
+     │   │   │   └──  sketch_20210723_GBKA_Blink.ino
+     │   │   ├──  sketch_20210723_Lesson0/
+     │   │   │   └──  sketch_20210723_Lesson0.ino
+     │   │   ├──  sketch_20210723_Lesson0_with_blink/
+     │   │   │   └──  sketch_20210723_Lesson0_with_blink.ino
+     │   │   ├──  sketch_20210723_Lesson0_with_blink_and_millis/
+     │   │   │   └──  sketch_20210723_Lesson0_with_blink_and_millis.ino
+     │   │   ├──  sketch_20210723_Lesson0_with_blink_millis_and_keywords/
+     │   │   │   └──  sketch_20210723_Lesson0_with_blink_millis_and_keywords.ino
+     │   │   ├──  sketch_20210723_Lesson2/
+     │   │   │   └──  sketch_20210723_Lesson2.ino
+     │   │   ├──  sketch_20210723_Lesson2_with_counter/
+     │   │   │   └──  sketch_20210723_Lesson2_with_counter.ino
+     │   │   ├──  sketch_20210723_Lesson2_with_notify/
+     │   │   │   └──  sketch_20210723_Lesson2_with_notify.ino
+     │   │   └──  sketch_20210723_Lesson2_with_notify_millis_and_keywords/
+     │   │       └──  sketch_20210723_Lesson2_with_notify_millis_and_keywords.ino
+     │   ├──  README.md
+     │   ├──  sketch_20210823_GBKA_Blink/
+     │   │   └──  sketch_20210723_GBKA_Blink.ino
+     │   ├──  sketch_20210823_Lesson0/
+     │   │   └──  sketch_20210823_Lesson0.ino
+     │   ├──  sketch_20210823_Lesson0_with_blink/
+     │   │   └──  sketch_20210823_Lesson0_with_blink.ino
+     │   ├──  sketch_20210823_Lesson0_with_blink_and_millis/
+     │   │   └──  sketch_20210823_Lesson0_with_blink_and_millis.ino
+     │   ├──  sketch_20210823_Lesson0_with_blink_millis_and_keywords/
+     │   │   └──  sketch_20210823_Lesson0_with_blink_millis_and_keywords.ino
+     │   ├──  sketch_20210823_Lesson1/
+     │   │   └──  sketch_20210823_Lesson1.ino
+     │   ├──  sketch_20210823_Lesson1_read_from_Serial/
+     │   │   └──  sketch_20210823_Lesson1_read_from_Serial.ino
+     │   ├──  sketch_20210823_Lesson2/
+     │   │   └──  sketch_20210823_Lesson2.ino
+     │   ├──  sketch_20210823_Lesson2_with_counter/
+     │   │   └──  sketch_20210823_Lesson2_with_counter.ino
+     │   ├──  sketch_20210823_Lesson2_with_notify/
+     │   │   └──  sketch_20210823_Lesson2_with_notify.ino
+     │   ├──  sketch_20210823_Lesson2_with_notify_millis_and_keywords/
+     │   │   └──  sketch_20210823_Lesson2_with_notify_millis_and_keywords.ino
+     │   ├──  sketch_20210823_Lesson3A/
+     │   │   └──  sketch_20210823_Lesson3A.ino
+     │   └──  sketch_20210823_Lesson3A_with_notify_millis_and_keywords/
+     │       └──  sketch_20210823_Lesson3A_with_notify_millis_and_keywords.ino
+     ├──  README.md
+     ├──  README.md.bak
+     ├──  README.md.old
+     ├──  documents/
+     │   ├──  MonogrammingExampleForFeedbackControl.pdf
+     │   ├──  MonogrammingForFeedbackControl.pdf
+     │   ├──  README.md
+     │   └──  シェルスクリプトを用いたUNIX哲学に基づくリアルタイム制御.pdf
+     ├──  examples/
+     │   ├──  0-1_update_your_apt.txt
+     │   ├──  0-2_install_additional_commands.txt
+     │   ├──  1-1_MQTT1.txt
+     │   ├──  1-2_MQTT2.txt
+     │   ├──  2-1_kotoriotoko-1.txt
+     │   ├──  2-2_kotoriotoko-2.txt
+     │   ├──  2-x_kotoriotoko-3.txt
+     │   ├──  3-1_GBKA-1.txt
+     │   └──  template.sh
+     ├──  misc/
+     │   ├──  README.md
+     │   └──  sample.tsv
+     └──  scripts/
+         └──  README.md
+     
+     28 directories, 42 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--mgws--2208
+     ├──  Links.md
+     ├──  README.md
+     ├──  README.md.old
+     ├──  documents/
+     │   ├──  0.General.md
+     │   ├──  1.Block1.md
+     │   ├──  2.Block2.md
+     │   ├──  3.Block3.md
+     │   ├──  9.Information.md
+     │   └──  README.md
+     ├──  examples/
+     │   └──  README.md
+     ├──  misc/
+     │   └──  README.md
+     └──  scripts/
+         └──  README.md
+     
+     4 directories, 12 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./eZone--mgws2020-02
+     ├──  Arduino/
+     │   ├──  00README.txt
+     │   └──  sketch_20200131a_Ain3SW3Aout3Dout1Serial1/
+     │       └──  sketch_20200131a_Ain3SW3Aout3Dout1Serial1.ino
+     ├──  README.md
+     ├──  README.md.bak
+     └──  README.md.old
+     
+     2 directories, 5 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./gZone
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 2 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./jZone
+     ├──  00README.txt
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./mZone
+     ├──  00README.txt
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:54 JST 2022)
+
+    ./pZone
+     ├──  00README.txt
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./pZone--private--dictionaries
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     └──  kotoeri/
+         ├──  Dict/
+         │   ├──  CurrentMaster.csv -> myDict-20220811-1.csv
+         │   ├──  myDict-20210628-1-p2c-utf8.txt
+         │   ├──  myDict-20210628-1-p2c-win.txt
+         │   ├──  myDict-20210628-1-p2c.csv
+         │   ├──  myDict-20210628-1.plist
+         │   ├──  myDict-20220811-1-c2p.plist
+         │   └──  myDict-20220811-1.csv
+         ├──  README.md
+         └──  Script/
+             ├──  README.md
+             ├──  csv-to-plist.sh
+             ├──  macDictCSV2winDictTXT.sh
+             ├──  plist-to-csv.sh
+             └──  winDictTXT2macDictCSV.sh
+     
+     3 directories, 16 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./pZone--private--dotFiles
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     ├──  dot.bash_logout(hohno-SP6-2019H)
+     ├──  dot.bash_profile(hohno-R95-2021N)
+     ├──  dot.bash_profile(hohno-SP6-2019H)
+     ├──  dot.bashrc(hohno-AX3-2020J)
+     ├──  dot.bashrc(hohno-SP6-2019H)
+     ├──  dot.emacs.d/
+     │   ├──  Cask
+     │   ├──  Cask-20180425-1500
+     │   ├──  Cask-20200608
+     │   ├──  Cask-made-by-pallet-20180425-1503
+     │   ├──  Cask-penguin
+     │   ├──  Cask.orig
+     │   ├──  elpa/
+     │   │   ├──  archives/
+     │   │   ├──  gnu-elpa-1.1/
+     │   │   ├──  gnu-elpa-1.1.signed
+     │   │   └──  gnupg/
+     │   ├──  init-penguin.el
+     │   ├──  init.el-20210802
+     │   ├──  init.el-20220702
+     │   ├──  init.el.now
+     │   └──  transient/
+     │       └──  history.el
+     ├──  dot.emacs.d(hohno-MBP-2022P)/
+     │   ├──  Cask
+     │   ├──  auto-save-list/
+     │   ├──  init.el
+     │   ├──  init.el-20220816-233619
+     │   ├──  init.el-20220828-214458
+     │   └──  init.el~
+     ├──  dot.emacs.d(hohno-SP6-2019H)/
+     │   ├──  Cask
+     │   ├──  auto-save-list/
+     │   ├──  elpa/
+     │   │   ├──  ansi-20200611.944/
+     │   │   ├──  archives/
+     │   │   ├──  cask-0.8.8pre/
+     │   │   ├──  dash-20210826.1149/
+     │   │   ├──  epl-20180205.2049/
+     │   │   ├──  f-20210624.1103/
+     │   │   ├──  gnupg/
+     │   │   ├──  package-build-20210724.1143/
+     │   │   ├──  s-20210616.619/
+     │   │   └──  shut-up-20210403.1249/
+     │   └──  init.el
+     ├──  dot.emacs.d(penguin)/
+     │   ├──  Cask
+     │   ├──  auto-save-list/
+     │   ├──  elpa/
+     │   │   ├──  archives/
+     │   │   └──  gnupg/
+     │   ├──  init.el
+     │   └──  memo.txt
+     ├──  dot.gitconfig
+     ├──  dot.inputrc
+     ├──  dot.msmtprc
+     ├──  dot.muttrc
+     ├──  dot.profile(hohno-AX3-2020J)
+     └──  dot.ssh/
+         └──  config
+     
+     27 directories, 36 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./pZone--private--settings
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     └──  secret/
+         ├──  README.md
+         ├──  github
+         └──  secret-ap.h
+     
+     1 directory, 6 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./pZone--private--smallTools
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     └──  bin/
+         ├──  00doit.sh
+         ├──  ghcg.sh
+         ├──  ghcg2.sh
+         ├──  prepareADVcal.sh
+         ├──  sakuraProxy.sh
+         ├──  sakuraVPS.sh
+         ├──  sakuraVPS2.sh
+         └──  socksproxy.sh
+     
+     1 directory, 11 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./pZone--private--wordbook
+     ├──  ==PrivateRepository==
+     ├──  English/
+     │   ├──  README.md
+     │   └──  wordbook1/
+     │       ├──  misc/
+     │       │   └──  sample.md
+     │       ├──  sample.tsv
+     │       └──  sample.txt
+     ├──  README.md
+     ├──  README.md.old
+     └──  tools/
+         ├──  README.md
+         └──  word2link.sh
+     
+     4 directories, 9 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./pZone--public--dotFiles
+     ├──  README.md
+     ├──  README.md.old
+     ├──  dot.bashrc_aliases
+     ├──  dot.gitignore
+     ├──  dot.inputrc
+     └──  dot.screenrc
+     
+     0 directories, 6 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./pZone--public--settings
+     ├──  README.md
+     ├──  README.md.old
+     ├──  VSCode/
+     │   ├──  README.md
+     │   └──  make-controlkeys-available-on-terminal.txt
+     └──  mosquitto/
+         └──  mosquitto.conf
+     
+     2 directories, 5 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./pZone--public--smallTools
+     ├──  README.md
+     ├──  README.md.old
+     └──  bin/
+         ├──  00doit.sh
+         ├──  DHdemo.sh
+         ├──  QRclock2.sh
+         ├──  addts.sh
+         ├──  bkwt.sh
+         ├──  cdate
+         ├──  h2z -> han2zen
+         ├──  han2zen
+         ├──  mkqrcode-as-text.pl
+         ├──  mkqrcode.pl
+         ├──  mkqrcode.sh
+         ├──  p3top6.rb
+         ├──  p6top3.rb
+         ├──  say-e
+         ├──  say-j
+         ├──  scale
+         ├──  screen-pp
+         ├──  texclean
+         ├──  treex
+         ├──  umount_TimeMachineSSD.sh
+         ├──  z2h -> zen2han
+         └──  zen2han
+     
+     1 directory, 24 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./rZone
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 2 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./rZone--RaspberryWorkbench--DPSWS2022
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     ├──  dpsws2022-1/
+     │   ├──  old/
+     │   │   └──  00README.txt
+     │   └──  pLaTeX/
+     │       ├──  _main-utf8.tex
+     │       ├──  bibsample.bib
+     │       ├──  desktop.ini
+     │       ├──  doit-wsl.sh
+     │       ├──  doit.sh
+     │       ├──  dpsws2022-RaspberryWorkbench.pdf
+     │       ├──  dpsws2022-RaspberryWorkbench.tex
+     │       ├──  ebibsample.bib
+     │       ├──  figspics/
+     │       ├──  ipsj/
+     │       ├──  ipsj.cls -> ipsj/ipsj.cls
+     │       ├──  ipsjpref.sty -> ipsj/ipsjpref.sty
+     │       ├──  ipsjsort.bst -> ipsj/ipsjsort.bst
+     │       ├──  ipsjtech.sty -> ipsj/ipsjtech.sty
+     │       ├──  ipsjunsrt.bst -> ipsj/ipsjunsrt.bst
+     │       ├──  main.tex
+     │       ├──  main.tex-20220826-2355
+     │       ├──  old/
+     │       └──  tmp/
+     ├──  dpsws2022-1-20220826-2355/
+     │   ├──  old/
+     │   │   └──  00README.txt
+     │   └──  pLaTeX/
+     │       ├──  _main-utf8.tex
+     │       ├──  bibsample.bib
+     │       ├──  desktop.ini
+     │       ├──  doit-wsl.sh
+     │       ├──  doit.sh
+     │       ├──  dpsws2022-RaspberryWorkbench.aux
+     │       ├──  dpsws2022-RaspberryWorkbench.dvi
+     │       ├──  dpsws2022-RaspberryWorkbench.log
+     │       ├──  dpsws2022-RaspberryWorkbench.pdf
+     │       ├──  dpsws2022-RaspberryWorkbench.tex
+     │       ├──  ebibsample.bib
+     │       ├──  figspics/
+     │       ├──  ipsj/
+     │       ├──  ipsj.cls -> ipsj/ipsj.cls
+     │       ├──  ipsjpref.sty -> ipsj/ipsjpref.sty
+     │       ├──  ipsjsort.bst -> ipsj/ipsjsort.bst
+     │       ├──  ipsjtech.sty -> ipsj/ipsjtech.sty
+     │       ├──  ipsjunsrt.bst -> ipsj/ipsjunsrt.bst
+     │       ├──  main.tex
+     │       ├──  main.tex-20220826-2355
+     │       ├──  old/
+     │       └──  tmp/
+     ├──  dpsws2022-1-latest -> dpsws2022-1
+     └──  misc/
+         ├──  ipsj_v4/
+         │   ├──  SJIS/
+         │   └──  UTF8/
+         └──  ipsj_v4.zip
+     
+     19 directories, 39 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./sZone
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 2 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./sZone--COVID-19
+     ├──  COVID-19/
+     │   ├──  Japan/
+     │   │   ├──  Ishikawa/
+     │   │   │   ├──  FY2020.txt
+     │   │   │   ├──  FY2021.old
+     │   │   │   ├──  FY2021.tsv
+     │   │   │   ├──  FY2021.txt
+     │   │   │   ├──  FY2022.old
+     │   │   │   ├──  FY2022.tsv
+     │   │   │   ├──  FY2022.txt
+     │   │   │   ├──  README.md
+     │   │   │   ├──  checkit.sh
+     │   │   │   └──  convit.sh
+     │   │   ├──  README.md
+     │   │   └──  石川県の感染者総数の推移 -> Ishikawa
+     │   └──  README.md
+     ├──  README.md
+     ├──  README.md.old
+     └──  特設リンク：石川県 -> COVID-19/Japan/Ishikawa
+     
+     5 directories, 14 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./sZone--Weather
+     ├──  Japan/
+     │   ├──  Ishikawa/
+     │   │   ├──  Kanazawa/
+     │   │   │   ├──  2021-06_07.old
+     │   │   │   ├──  2021-06_07.txt
+     │   │   │   └──  README.md
+     │   │   └──  README.md
+     │   └──  README.md
+     ├──  README.md
+     └──  README.md.old
+     
+     3 directories, 7 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./tZone
+     ├──  00README.txt
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./tZone--GoogleColab
+     ├──  Colaboratory_へようこそ.ipynb
+     ├──  README.md
+     ├──  README.md.old
+     ├──  Untitled0_20210520.ipynb
+     └──  Untitled1_20220314.ipynb
+     
+     0 directories, 5 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./tZone--HelloWorld
+     ├──  README.md
+     ├──  README.md.old
+     ├──  test.txt
+     └──  update.sh
+     
+     0 directories, 4 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./tZone--ProgrammingPG
+     ├──  Csharp/
+     │   ├──  1週間でC＃の基礎が学べる本 -> Csharp_basics_in_a_week
+     │   ├──  Csharp_basics_in_a_week/
+     │   │   ├──  Day1/
+     │   │   ├──  Day2/
+     │   │   ├──  Day3/
+     │   │   ├──  Day4/
+     │   │   ├──  Day5/
+     │   │   ├──  Day6/
+     │   │   ├──  Day7/
+     │   │   └──  README.md
+     │   ├──  MQTT/
+     │   │   └──  workspace/
+     │   └──  README.md
+     ├──  HTML/
+     │   ├──  Emmet/
+     │   │   ├──  README.md
+     │   │   └──  test01/
+     │   └──  README.md
+     ├──  JavaScript/
+     │   ├──  README.md
+     │   ├──  WeeklyAscii/
+     │   │   ├──  No.1370(256)-/
+     │   │   ├──  No.1371(257)-/
+     │   │   ├──  No.1372(258)/
+     │   │   ├──  No.1373(259)-/
+     │   │   ├──  No.1374(260)-/
+     │   │   ├──  No.1375(261)-/
+     │   │   ├──  No.1376(262)/
+     │   │   ├──  No.1377(263)-/
+     │   │   ├──  No.1378(264)/
+     │   │   ├──  No.1379(265)-/
+     │   │   ├──  No.1380(266)-/
+     │   │   ├──  No.1381(267)/
+     │   │   ├──  No.1382(268)-/
+     │   │   ├──  No.1383(269)-/
+     │   │   ├──  No.1384(270)-/
+     │   │   ├──  No.1385(271)-/
+     │   │   ├──  No.1386(272)/
+     │   │   ├──  No.1387(273)-/
+     │   │   ├──  No.1388(274)-/
+     │   │   ├──  No.1389(275)-/
+     │   │   ├──  No.1390(276)-/
+     │   │   ├──  No.1391(277)-/
+     │   │   └──  No.1392(278)-/
+     │   ├──  box2dweb/
+     │   │   ├──  Box2D.js
+     │   │   ├──  Box2d.min.js
+     │   │   ├──  README.md
+     │   │   ├──  demo-google-gadget.xml
+     │   │   ├──  demo.html
+     │   │   └──  example.html
+     │   └──  template/
+     │       ├──  template-MQTT.html
+     │       ├──  template-MQTT.js
+     │       ├──  template.html
+     │       └──  template.js
+     ├──  Python/
+     │   └──  README.md
+     ├──  README.md
+     ├──  README.md.old
+     └──  SQLite/
+         └──  README.md
+     
+     44 directories, 19 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./tZone--ProgrammingSG
+     ├──  ==PrivateRepository==
+     ├──  Csharp/
+     │   └──  README.md
+     ├──  HTML/
+     │   └──  README.md
+     ├──  JavaScript/
+     │   └──  README.md
+     ├──  Python/
+     │   └──  README.md
+     ├──  README.md
+     ├──  README.md.old
+     └──  SQLite/
+         └──  README.md
+     
+     5 directories, 8 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./tZone--test20190730
+     ├──  README.md
+     ├──  README.md.old
+     ├──  sample.txt
+     ├──  sample2.txt
+     └──  sample3.txt
+     
+     0 directories, 5 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./tZone--workspace--temporary
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     ├──  memo/
+     │   ├──  20220620-CLOCK_REALTIME-CLOCK_MONOTONIC.txt
+     │   ├──  Hello.txt
+     │   └──  README.md
+     ├──  tmp/
+     │   └──  NT金沢mini＠石川県立図書館2022（6）.pdf
+     └──  workspace/
+         ├──  GHCG-2022/
+         │   ├──  GHCG-20220707.png
+         │   ├──  GHCG-20220714.png
+         │   ├──  GHCG-20220721.png
+         │   ├──  GHCG-20220804.png
+         │   ├──  GHCG-20220830.png
+         │   └──  README.md
+         ├──  README.md
+         ├──  atomicClock-202206-MBP2016B-1/
+         │   ├──  00memo.txt
+         │   ├──  ExtClock16MHz
+         │   ├──  ExtXtal
+         │   ├──  README.md
+         │   ├──  atomic1
+         │   ├──  data1
+         │   ├──  data2
+         │   ├──  data3
+         │   ├──  data4
+         │   ├──  data4a
+         │   ├──  data5
+         │   ├──  data6
+         │   ├──  data7
+         │   ├──  dataX1
+         │   ├──  original1
+         │   ├──  originalA1
+         │   ├──  originalB1
+         │   ├──  reference-data1
+         │   ├──  typescript-20220619-1
+         │   ├──  typescript-20220619-2
+         │   ├──  typescript-20220619-3
+         │   ├──  typescript-20220619-4
+         │   ├──  typescript-20220619-5
+         │   ├──  typescript-20220619-6
+         │   └──  typescript-20220619-7
+         └──  atomicClock-202207-MBP2016B-1/
+             ├──  README.md
+             ├──  afo.plot
+             ├──  afo2.plot
+             ├──  data-20220704-1
+             ├──  data-20220704-1_plot-5-3
+             ├──  data-20220704-2
+             ├──  data-20220705-1
+             ├──  data-20220705-1_plot-5-3
+             ├──  output.gif
+             ├──  output2.jpeg
+             ├──  output3.jpeg
+             ├──  output4.jpeg
+             ├──  output5.jpeg
+             ├──  typescript-20220704-1
+             └──  typescript-20220704-2
+     
+     6 directories, 54 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./uZone
+     ├──  00README.txt
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 3 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./uZone--tools--EEU
+     ├──  ==PrivateRepository==
+     ├──  QQ-Scripts.sh
+     ├──  QQ-TEMPLATE.sh
+     ├──  README-udev.md
+     ├──  README.md
+     ├──  README.md.old
+     ├──  README.md.prev
+     ├──  Scripts/
+     │   ├──  00doit.sh
+     │   ├──  close_screenGroup.sh
+     │   ├──  close_screenGroup.sh.prev
+     │   ├──  screenCTRL/
+     │   │   ├──  OLD/
+     │   │   ├──  Project.cfg
+     │   │   ├──  memo.txt
+     │   │   ├──  misc/
+     │   │   ├──  start-A0-DMX512-1.sh
+     │   │   ├──  start-A0-DMX512-2.sh
+     │   │   ├──  start-A0-DMX512-3-random.sh
+     │   │   ├──  start-A0-DMX512-4.sh
+     │   │   ├──  start-A1-QRcodePanel-1.sh
+     │   │   ├──  start-A2-ABCD0000-0x.sh
+     │   │   ├──  start-A2-ABCD0000-1.sh
+     │   │   ├──  start-A2-ABCD0000-1x.sh
+     │   │   ├──  start-A2-ABCD0000-x.sh
+     │   │   ├──  start-B0-ILI9341-1.sh
+     │   │   ├──  start-B0-ILI9341-2.sh -> start-B0-ILI9341-1.sh
+     │   │   ├──  start-B0-ILI9341-3.sh -> start-B0-ILI9341-1.sh
+     │   │   ├──  start-B1-7segLED-1.sh
+     │   │   ├──  start-B1-7segLED-2.sh -> start-B1-7segLED-1.sh
+     │   │   ├──  start-B1-7segLED-3.sh -> start-B1-7segLED-1.sh
+     │   │   ├──  start-U0-TimeServer-1.sh
+     │   │   ├──  start-U1-TimeMonitor-1.sh
+     │   │   ├──  start-X9-template.sh
+     │   │   ├──  update_Project_cfg.sh
+     │   │   ├──  watch-B0-ILI9341-1.sh
+     │   │   ├──  watch-B0-ILI9341-2.sh -> watch-B0-ILI9341-1.sh
+     │   │   ├──  watch-B0-ILI9341-3.sh -> watch-B0-ILI9341-1.sh
+     │   │   ├──  watch-B0-ILI9341-4.sh -> watch-B0-ILI9341-1.sh
+     │   │   ├──  watch-B1-7segLED-1.sh
+     │   │   ├──  watch-B1-7segLED-2.sh -> watch-B1-7segLED-1.sh
+     │   │   ├──  watch-B1-7segLED-3.sh -> watch-B1-7segLED-1.sh
+     │   │   ├──  watch-B1-7segLED-4.sh -> watch-B1-7segLED-1.sh
+     │   │   ├──  watch-X9-template.sh
+     │   │   └──  watcht-B0-ILI9341-1.sh
+     │   ├──  start_screenGroup.sh
+     │   ├──  start_screenGroup.sh.prev
+     │   ├──  start_vnc.sh
+     │   └──  start_vnc.sh.prev
+     ├──  bin/
+     │   ├──  00doit.sh
+     │   ├──  TTYdevice_namer.sh
+     │   ├──  _closeScreen.expect
+     │   ├──  _closeScreen2.expect
+     │   ├──  _prepareScreen.expect
+     │   ├──  cdate
+     │   ├──  closeScreen.sh
+     │   ├──  killcu
+     │   ├──  killcuX
+     │   ├──  nanoKONTROL2.sh
+     │   ├──  prepareScreen.sh
+     │   ├──  screen-pp
+     │   ├──  start-myscreen.sh
+     │   └──  vino-encryption-off.sh
+     ├──  dotFiles/
+     │   ├──  dot.bash_profile-part
+     │   └──  dot.bashrc-part
+     ├──  etc/
+     │   └──  udev/
+     │       └──  rules.d/
+     └──  var/
+         └──  spool/
+             └──  cron/
+     
+     12 directories, 61 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./uZone--tools--lsgithub
+     ├──  00doit.sh
+     ├──  MANPAGE.md
+     ├──  README.md
+     ├──  README.md.old
+     ├──  lsgithub
+     └──  lsgithub_prev
+     
+     0 directories, 6 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./vZone
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 2 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./wZone
+     ├──  README.md
+     └──  README.md.old
+     
+     0 directories, 2 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./wZone--Windows--KeyboardShortcuts
+     ├──  MSexcelKeyboardShortcuts.tsv
+     ├──  MSpowerpointKeyboardShortcuts.tsv
+     ├──  MSwordKeyboardShortcuts.tsv
+     ├──  README.md
+     ├──  README.md.old
+     ├──  Vimium.tsv
+     └──  WindowsKeyboardShortcuts.tsv
+     
+     0 directories, 7 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./xZone
+     ├──  00README-1.txt
+     ├──  00README-2.txt
+     ├──  QQ-TEMPLATE.sh -> tools/QQ-TEMPLATE.sh
+     ├──  QQ-tools.sh
+     ├──  QQ-xZone-test00.sh
+     ├──  README.md
+     ├──  README.md.old
+     ├──  mkbat4winFS.sh -> tools/mkbat4winFS.sh
+     ├──  tools/
+     │   ├──  00doit-template.sh
+     │   ├──  QQ-TEMPLATE.sh
+     │   └──  mkbat4winFS.sh
+     └──  xZone-test00/
+         ├──  00README.txt
+         ├──  test1.txt
+         ├──  test2.txt
+         └──  test3.txt
+     
+     2 directories, 15 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./xZone--BadCase--Arduino-with-Symlinks
+     ├──  README.md
+     ├──  README.md.old
+     ├──  common/
+     │   ├──  dir1/
+     │   │   └──  file1.h
+     │   └──  dir2/
+     │       └──  file2.h
+     └──  sketch_BadSketch_20220507/
+         ├──  README-01.txt
+         ├──  README.md
+         ├──  file1.h -> ../common/dir1/file1.h
+         ├──  file2.h -> ../common/dir2/file2.h
+         ├──  re-link.bat
+         └──  sketch_BadSketch_20220507.ino
+     
+     4 directories, 10 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./xZone--Darshana--SCADAsecurity
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     ├──  documents/
+     │   └──  README.md
+     ├──  memo-for-GitHub.txt
+     ├──  misc/
+     │   └──  README.md
+     └──  workspace/
+         ├──  MethodTest/
+         │   ├──  Method3/
+         │   │   ├──  README.md
+         │   │   ├──  Result_Time_Method3_PrimeCounter_SymmetricKey/
+         │   │   ├──  Time_Method3_PrimeCounter_SymmetricKey.py
+         │   │   ├──  getcsv1.sh
+         │   │   ├──  getresult.sh
+         │   │   ├──  result-real.csv
+         │   │   ├──  result-sys.csv
+         │   │   └──  result-user.csv
+         │   ├──  Method4/
+         │   │   └──  Time_Method4_HASHChaining_SymmetricKey.py
+         │   ├──  Paper_resources/
+         │   │   └──  paper_template
+         │   └──  setup_ENV.txt
+         ├──  README.md
+         └──  playground/
+             ├──  README.md
+             └──  temp/
+                 └──  file1.txt
+     
+     10 directories, 19 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./xZone--Wen--RaspberryHouse
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     ├──  WatchDogTimer/
+     │   ├──  Blink6/
+     │   │   └──  Blink6.ino
+     │   ├──  Blink6_2/
+     │   │   └──  Blink6_2.ino
+     │   ├──  README.md
+     │   ├──  TestForReset/
+     │   │   └──  TestForReset.ino
+     │   ├──  TestForReset2/
+     │   │   └──  TestForReset2.ino
+     │   ├──  watchdog_DoS/
+     │   │   └──  watchdog_DoS.ino
+     │   └──  watchdog_whole/
+     │       └──  watchdog_whole.ino
+     ├──  misc/
+     │   └──  README.md
+     ├──  watchdog_whole/
+     │   └──  watchdog_whole.ino
+     └──  workspace/
+         └──  README.md
+     
+     10 directories, 13 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./xZone--test--P5iOS
+     ├──  README.md
+     ├──  README.md.old
+     ├──  sketch_20210901a/
+     │   └──  sketch_20210901a.pde
+     └──  sketch_20210901b/
+         └──  sketch_20210901b.pde
+     
+     2 directories, 4 files (Sat Sep  3 16:12:55 JST 2022)
+
+    ./xZone--test--TSVfiles
+     ├──  README.md
+     ├──  README.md.old
+     └──  examples/
+         ├──  README.md
+         ├──  offices-jp/
+         │   └──  README.md
+         ├──  sample-1.tsv
+         ├──  sample-2.tsv
+         ├──  sample-3.tsv
+         └──  universities-jp/
+             ├──  README.md
+             ├──  universities-chubu.tsv -> universities-region-chubu.tsv
+             ├──  universities-ishikawa.tsv -> universities-pref-ishikawa.tsv
+             ├──  universities-japan.tsv
+             ├──  universities-pref-ishikawa.tsv
+             └──  universities-region-chubu.tsv
+     
+     3 directories, 13 files (Sat Sep  3 16:12:55 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/aZone
