@@ -2,11 +2,11 @@
 
 Apple, Android, AWS Zone
 
-    ./aZone/
+    ./aZone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sat Aug 27 18:14:57 JST 2022)
+     0 directories, 2 files (Tue Sep  6 22:12:22 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/aZone
