@@ -6,7 +6,7 @@ Apple, Android, AWS Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sat Oct 22 06:09:40 JST 2022)
+     0 directories, 2 files (Sat Oct 22 06:24:47 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/aZone
